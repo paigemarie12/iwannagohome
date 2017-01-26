@@ -1,7 +1,53 @@
-body {background-color:#efd0ec;
-background-image: url{"https://raw.githubusercontent.com/paigemarie12/iwannagohome/gh-pages/tile.png"};
-a{color:#2ad6d3;}
-a:hover{color:#c84bf2;}
-h1{color:#ed1e3a;}
-p{color:#9e2778;}
-h2{color:#541d49;}
+body {
+  background-color:#efd0ec;
+  background-image: url("https://raw.githubusercontent.com/paigemarie12/iwannagohome/gh-pages/tile.png");
+}
+
+a {
+  color:#2ad6d3;
+}
+
+a:hover{ 
+  color:#c84bf2;
+}
+
+h1 {
+  color:#ed1e3a;
+}
+
+p {
+  color:#9e2778;
+}
+
+h2 {
+  color:#541d49;
+}
+
+ol {
+    width: 500px;
+    padding-left: 0px;
+    float: right;
+}
+
+
+:hov
+
+.cls
+
+p {
+    width: 560px;
+    display: inline;
+}
+
+h3 {
+    width: 500px;
+    padding-left: 0px;
+    float: right;
+    height: 54px;
+}
+
+ul {
+    float: right;
+    width: 500px;
+    padding-left: 0px;
+}
