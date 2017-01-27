@@ -37,6 +37,7 @@ ol {
 p {
     width: 560px;
     display: inline;
+  border: 50px #efbe6e;
 }
 
 h3 {
@@ -51,3 +52,5 @@ ul {
     width: 500px;
     padding-left: 0px;
 }
+
+#rcorners1
