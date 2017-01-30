@@ -52,11 +52,7 @@ ul {
     padding-left: 0px;
 }
 
-#rcorners1 {
-  border-radius: 25px;
-  background:#e5406f;
-  padding: 20px;
-  width: 200px;
-  height: 150px;
+li {
+  display:inline:
 }
     
