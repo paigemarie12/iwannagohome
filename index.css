@@ -93,3 +93,13 @@ ul {
   top:0;
   width:100%;
 }
+
+#rcorners {
+  border-radius: 25px;
+  background: url("http://vignette4.wikia.nocookie.net/spongebob/images/d/dd/Spongebob_Squarepants_Texas_Song/revision/latest?cb=20121005040410");}
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
